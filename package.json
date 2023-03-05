@@ -1,0 +1,19 @@
+{
+  "name": "open-bootcamp",
+  "version": "1.0.0",
+  "description": "para ejercicios de open-bootcamp curso de javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedritogonzalez88/curso_open-bootcamp.git"
+  },
+  "author": "Pedro Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedritogonzalez88/curso_open-bootcamp/issues"
+  },
+  "homepage": "https://github.com/pedritogonzalez88/curso_open-bootcamp#readme"
+}
